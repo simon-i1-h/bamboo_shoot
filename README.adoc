@@ -1,0 +1,3 @@
+= Bamboo shoot programming language
+
+Bamboo shoot is a programming language like link:https://esolangs.org/wiki/Lazy_K[]. (stub)
